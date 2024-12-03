@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/hamiltonposada/Developments/bit-academy/CIcd/hugo-project/quickstart",
+	"sourceRoot": "/Users/hamiltonposada/Developments/bit-academy/CIcd/hugo-project/Hugo-test-project",
 	"sources": [
 		"ananke/css/main.css"
 	],

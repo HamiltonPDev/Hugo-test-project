@@ -1,4 +1,23 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'NexEd deployment'
 theme = 'ananke'
+
+[params]
+    clickable_url = "https://effortless-cocada-f0ee1f.netlify.app/posts/"
+
+[menu]
+    [[menu.main]]
+        name = 'Posts'
+        url = '/posts/'
+        weight = 1
+    
+    [[menu.main]]
+        name = 'About'
+        url = '/about/'
+        weight = 2
+    
+    [[menu.main]]
+        name = 'Contact'
+        url = '/contact/'
+        weight = 3
